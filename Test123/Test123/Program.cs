@@ -11,7 +11,7 @@ namespace Test123
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine(Math.Pow(2, 50));
+            Console.WriteLine(Math.Pow(2, 50)); // Bernie muss das hier noch fixen!
             Console.ReadKey();
         }
     }

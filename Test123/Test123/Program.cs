@@ -12,6 +12,7 @@ namespace Test123
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine(Math.Pow(2, 50)); // Bernie muss das hier noch fixen!
+            Console.WriteLine("Das ist ein Test!");
             Console.ReadKey();
         }
     }
